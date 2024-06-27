@@ -1,16 +1,36 @@
-## Hi there 👋
+# Merhaba, Ben Mehmet Sait Yağmur 👋<img src="https://github.com/mhmtygmr0/MehmetSaitYagmur/assets/93721529/728413f4-a447-451b-88fe-7dd60f746468" align="right" width="300">
+Gaziantep Üniversitesi'nden Bilgisayar Programcılığı bölümünden mezun oldum. 
+Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Java backend geliştirme kursu alıyorum.
 
-<!--
-**mhmtygmr0/mhmtygmr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hakkımda
+- 🌱 Şu anda [Patika+](https://www.patika.dev/) üzerinde
+- Java backend geliştirme kursu alıyorum.
+- 👯 İş fırsatları arıyorum, özellikle backend geliştirme alanında.
+- 📫 Bana ulaşın: mehmetygmrr02@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Bildiğim Teknolojiler
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+
+## Bağlantılar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mehmetsaityagmur-410516212/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.instagram.com/mehmetygmrr02/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/mhmtygmr0" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
+</p>
+
+
+Teşekkürler!
