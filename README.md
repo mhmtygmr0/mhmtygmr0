@@ -45,7 +45,12 @@ Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Ja
   <a href="https://github.com/mhmtygmr0" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/mehmetygmrr02" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" width="40" height="40" style="margin-right: 10px;"/>
+  </a>
 </p>
+
+
 
 
 Teşekkürler!
