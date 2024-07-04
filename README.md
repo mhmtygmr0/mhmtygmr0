@@ -1,4 +1,4 @@
-# Merhaba, Ben Mehmet Sait Yağmur 👋<img src="https://github.com/mhmtygmr0/MehmetSaitYagmur/assets/93721529/728413f4-a447-451b-88fe-7dd60f746468" align="right" width="300">
+# Merhaba, Ben Mehmet Sait Yağmur 👋
 Gaziantep Üniversitesi'nden Bilgisayar Programcılığı bölümünden mezun oldum. 
 Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Java backend geliştirme kursu alıyorum.
 
