@@ -50,7 +50,3 @@ Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Ja
   </a>
 </p>
 
-
-
-
-Teşekkürler!
