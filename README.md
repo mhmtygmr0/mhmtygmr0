@@ -4,8 +4,7 @@ Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Ja
 
 
 ## Hakkımda
-- 🌱 Şu anda [Patika+](https://www.patika.dev/) üzerinde
-- Java backend geliştirme kursu alıyorum.
+- 🌱 Şu anda Patika+ üzerinde Java backend geliştirme kursu alıyorum.
 - 👯 İş fırsatları arıyorum, özellikle backend geliştirme alanında.
 - 📫 Bana ulaşın: mehmetygmrr02@gmail.com
 
