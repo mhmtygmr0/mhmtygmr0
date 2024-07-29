@@ -1,23 +1,21 @@
-# Merhaba, Ben Mehmet Sait Yağmur 👋
-Gaziantep Üniversitesi'nden Bilgisayar Programcılığı bölümünden mezun oldum. 
-Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Java backend geliştirme kursu alıyorum.
+# Hello, I'm Mehmet Sait Yağmur 👋
+Passionate about Software Development - Backend Developer - Lifelong Learner - Spring Boot Enthusiast
 
 
-## Hakkımda
-- 🌱 Şu anda Patika+ üzerinde Java backend geliştirme kursu alıyorum.
-- 👯 İş fırsatları arıyorum, özellikle backend geliştirme alanında.
-- 📫 Bana ulaşın: mehmetygmrr02@gmail.com
+## About Me
+- 🌱 I have completed a Java backend development course on Patika+.
+- 👯 I am looking for job opportunities, especially in backend development and software architecture.
+- 💼 I graduated from Gaziantep University with a degree in Computer Programming and I am constantly enhancing my knowledge and skills in software development.
+- 🚀 I develop projects using Spring Boot, PostgreSQL, and Java, and I am dedicated to improving myself in these areas.
+- 📫 Contact me: mehmetygmrr02@gmail.com
 
 
-## Bildiğim Teknolojiler
+## Skills
+
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
 <body>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
+     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://camo.githubusercontent.com/5e9ba77e967872a74d81c6744232f8b2eb5c2bbdc32d7150703a9090d1e36bee/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f496e74656c6c694a5f494445415f49636f6e2e737667" alt="IntelliJ IDEA" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
@@ -32,7 +30,9 @@ Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Ja
     <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="Spring Boot" width="40" height="40"/>
     </a>
-    
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C# Resources" width="40" height="40"/>
+    </a>
 </body>
 </html>
 
@@ -40,7 +40,7 @@ Yazılım geliştirme alanında kendimi geliştirmek için çalışıyorum ve Ja
 
 
 
-## Bağlantılar
+## Find Me Elsewhere
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehmetsaityagmur-410516212/" target="_blank">
