@@ -15,23 +15,32 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
 <!DOCTYPE html>
 <html lang="en">
 <body>
-     <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://camo.githubusercontent.com/5e9ba77e967872a74d81c6744232f8b2eb5c2bbdc32d7150703a9090d1e36bee/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f496e74656c6c694a5f494445415f49636f6e2e737667" alt="IntelliJ IDEA" width="40" height="40"/>
+    </a>
+     <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/>
+    </a>
+     <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="40" height="40"/>
+    </a>
+     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" alt="C#" width="40" height="40"/>
+    </a>
+     <a href="https://www.java.com/tr/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+    </a>
+     <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="Spring Boot" width="40" height="40"/>
+    </a>
+    <a href="https://maven.apache.org/" target="_blank">
+        <img src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" alt="Maven" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
-    <a href="https://www.java.com/tr/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <a href="https://maven.apache.org/" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgbzUuAfmCXSjLUkPNBR1YkDiONbBsCezrw&s" alt="Maven" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" alt="Spring Boot" width="40" height="40"/>
-    </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://miro.medium.com/v2/resize:fit:594/1*ymVNbsdd7KxHXHC4-LP7kw.png" alt="C# Resources" width="40" height="40"/>
+     <a href="https://www.microsoft.com/tr-tr/sql-server/" target="_blank">
+        <img src="https://img.icons8.com/color/480w/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
     </a>
 </body>
 </html>
