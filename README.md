@@ -24,6 +24,9 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
      <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="40" height="40"/>
     </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Icon" style="width:40px;height:40px;">
+    </a>
      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://e7.pngegg.com/pngimages/340/226/png-clipart-purple-and-white-logo-c-computer-programming-software-development-programmer-marklogic-coder-miscellaneous-purple.png" alt="C#" width="40" height="40"/>
     </a>
