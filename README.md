@@ -16,7 +16,7 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
 <html lang="en">
 <body>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://camo.githubusercontent.com/5e9ba77e967872a74d81c6744232f8b2eb5c2bbdc32d7150703a9090d1e36bee/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39632f496e74656c6c694a5f494445415f49636f6e2e737667" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ IDEA" width="40" height="40"/>
     </a>
      <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/>
