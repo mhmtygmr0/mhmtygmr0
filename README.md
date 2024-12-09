@@ -72,3 +72,14 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
   </a>
 </p>
 
+
+
+
+## Languages and Tools Stats:<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmtygmr0&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhmtygmr0&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mhmtygmr0.mhmtygmr0)
