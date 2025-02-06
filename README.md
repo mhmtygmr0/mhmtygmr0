@@ -7,7 +7,6 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
 - 🚀 I am a passionate software developer constantly improving my skills in different areas of technology.
 - 💡 Currently, I am working as a volunteer at a company that develops AI and mobile applications, where I contribute to projects related to mobile app development, artificial intelligence, and data processing.
 - 🎓 I graduated from Gaziantep University with a degree in Computer Programming and continuously expand my knowledge through hands-on experience and courses.
-- 🛠️ I develop projects using Spring Boot, Java, PostgreSQL, and AI-related technologies, and I am always eager to learn and improve myself.
 - 📫 Contact me: mehmetygmrr02@gmail.com
 
 
