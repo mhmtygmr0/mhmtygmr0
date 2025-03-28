@@ -21,23 +21,20 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
     <a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" width="40" height="40"/>
     </a>
-     <a href="https://code.visualstudio.com/" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="Visual Studio Code" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git Icon" style="width:40px;height:40px;">
     </a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-     </a>
     <a href="https://www.java.com/tr/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
     </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank">
         <img src="https://miro.medium.com/v2/resize:fit:500/1*AbiX4LwtSNozoyfypcKvEg.png" alt="Spring Boot" width="40" height="40"/>
     </a>
-    <a href="https://maven.apache.org/" target="_blank">
-        <img src="https://e7.pngegg.com/pngimages/917/651/png-clipart-apache-maven-feathers-tech-companies.png" alt="Maven" width="40" height="40"/>
+    <a href="https://flutter.dev/" target="_blank">
+        <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="Flutter" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -45,12 +42,8 @@ Passionate about Software Development - Backend Developer - Lifelong Learner - S
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
     </a>
-    <a href="https://www.microsoft.com/tr-tr/sql-server/" target="_blank">
-        <img src="https://img.icons8.com/color/480w/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
-    </a>
 </body>
 </html>
-
 
 
 
